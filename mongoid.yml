@@ -1,6 +1,0 @@
-development:
-  clients:
-    default:
-      uri: 
-      options:
-        server_selection_timeout: 5
